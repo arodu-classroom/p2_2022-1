@@ -1,6 +1,6 @@
 # Clase 2022-04-27
 
-## Aplicacion express-nodejs en local
+## Aplicación express-nodejs en local
 
 - Instalación nodejs
   - https://nodejs.org/en/download/
@@ -58,13 +58,13 @@ git push heroku main
 
 Podemos verificar que se ha conectado con el comando `git remote -v`
 
-Aplicacion corriendo en linea https://p2-clase-20221.herokuapp.com/
+Aplicación corriendo en linea https://p2-clase-20221.herokuapp.com/
 
 ## Resumen
-- Se creo un proyecto de express-nodejs el local llamado `p2_clase`
-- Se creo un repositorio en la cuenta de github del profesor llamado `arodu/p2_clase_2022`
+1. Se creo un proyecto de express-nodejs el local llamado `p2_clase`
+2. Se creo un repositorio en la cuenta de github del profesor llamado `arodu/p2_clase_2022`
     - https://github.com/arodu/p2_clase_2022-1
-- Se creo una aplicacion en heroku llamada `p2-clase-20221`
+3. Se creo una aplicación en heroku llamada `p2-clase-20221`
     - https://p2-clase-20221.herokuapp.com/
 
 ## Recursos extras

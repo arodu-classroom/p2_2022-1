@@ -32,5 +32,21 @@ git remote add origin git@github.com:arodu/p2_clase_2022-1.git
 git push -u origin main
 ```
 
+- Conexion a heroku
+	- crear app 
+	- agregar buildpack nodejs
 		
-		
+- Instalacion de heroku-cli
+	- https://devcenter.heroku.com/articles/heroku-cli
+	
+```bash
+heroku login
+heroku git:remote -a p2-clase-20221
+git push heroku main
+```
+
+- https://p2-clase-20221.herokuapp.com/
+
+
+
+

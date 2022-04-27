@@ -32,7 +32,7 @@ git init
 git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin git@github.com:arodu/p2_clase_2022-1.git
+git remote add origin git@github.com:arodu/p2_2022-1.git
 git push -u origin main
 ```
 
@@ -62,8 +62,8 @@ Aplicación corriendo en linea https://p2-clase-20221.herokuapp.com/
 
 ## Resumen
 1. Se creo un proyecto de express-nodejs el local llamado `p2_clase`
-2. Se creo un repositorio en la cuenta de github del profesor llamado `arodu/p2_clase_2022`
-    - https://github.com/arodu/p2_clase_2022-1
+2. Se creo un repositorio en la cuenta de github del profesor llamado `arodu/p2_2022-1`
+    - https://github.com/arodu/p2_2022-1
 3. Se creo una aplicación en heroku llamada `p2-clase-20221`
     - https://p2-clase-20221.herokuapp.com/
 
